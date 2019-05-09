@@ -12,7 +12,9 @@ After downloading the `log.sh` file, add a cronjob that will run it every week (
 ```
 You can edit your cronjobs on Mac with `crontab -e`. For more information on cronjobs on Mac, see [this article](https://ole.michelsen.dk/blog/schedule-jobs-with-crontab-on-mac-osx.html).
 
-Note: The path to my own weekly log file is currently hard-coded into the script. This needs to be changed to whatever your path is.
+*Note*: The path to my own weekly log file is currently hard-coded into the script. This needs to be changed to whatever your path is.
+
+*Note 2*: This seems to only work if you have your repo (with the weekly log file to be updated) set up with SSH.
 
 ## Possible Improvements
 
