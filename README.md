@@ -38,5 +38,3 @@ Here is a snippet from my log to give you an idea of the formatting and style:
 >* Closed various issues (#62, #63, #69, ...)
 >* Talked about changes to be made and how best to resolve the issues raised
 >* Raised issues on Ovals project GitHub
-
-## Test
